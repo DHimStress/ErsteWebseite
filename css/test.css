@@ -1,0 +1,9 @@
+	body
+	{
+		background-color: grey;
+	}
+	#first{color: blueviolet; font-size: 10px;}
+	h1{color: red;font-size: 60px;;text-decoration: underline;}
+	h2{color: aquamarine;font-size: 45px;text-decoration:underline;}
+	.small {font-size: 12px;}
+	h1 span{color: black;}
